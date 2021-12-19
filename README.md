@@ -7,8 +7,8 @@ Wordlist generated from the [EFF's](https://www.eff.org/deeplinks/2016/07/new-wo
 
 ```
 git clone https://github.com/abdullahrehmat/go-diceware  
-cd ./Go-Diceware
-go build -ldflags "-ws" main.go
-chmod +x ./main
-./main
+cd ./Go-Diceware  
+go build -ldflags "-ws" main.go  
+chmod +x ./main  
+./main  
 ```
